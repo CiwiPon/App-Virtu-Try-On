@@ -1,0 +1,5 @@
+{
+  "name": "Virtue Try On AIMEETSU",
+  "description": "An AI-powered virtual try-on application. Upload a product image and a model photo to generate a realistic image of the model wearing the outfit.",
+  "requestFramePermissions": []
+}
